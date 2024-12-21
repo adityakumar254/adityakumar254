@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Data Analyst Professional.<br>I'm Currently working on a Crop disease prediction using Some deep learning concept.<br>I'm Currently learning OpenCV, CNN (Convolutional Neural Networks), TensorFlow/Keras.<br>
+I'm Data Analyst Professional.<br>I'm Currently working on a Crop disease prediction using Some deep learning concept.<br>I'm Currently learning CNN (Convolutional Neural Networks), TensorFlow/Keras.<br>
 
 
 ## 🌐 Socials:
